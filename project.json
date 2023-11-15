@@ -4,9 +4,9 @@
   "description": "Let's take it one step further!\r\nIn the previous lessons, you learned more about how automating interfaces actually works. It's all about picking the right anchor. Now it's time for you to discover how reliable Unified Target actually is.\r\n\r\nYour challenge is to solve the RPA Challenge! One of the most popular RPA exercises, this practice will challenge you at picking the right anchors. The goal of this challenge is to create a workflow that will input data from a spreadsheet into the form field",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.23.2-preview]",
-    "UiPath.System.Activities": "[24.2.0-preview]",
-    "UiPath.UIAutomation.Activities": "[24.2.0-preview]"
+    "UiPath.Excel.Activities": "[2.23.3-preview]",
+    "UiPath.System.Activities": "[24.3.1]",
+    "UiPath.UIAutomation.Activities": "[24.4.2-preview]"
   },
   "webServices": [],
   "entitiesStores": [],

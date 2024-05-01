@@ -1,0 +1,8 @@
+05/01/2024 19:11:53 => [Debug] Debug started for file: Main
+05/01/2024 19:11:53 => [Info] RPADev-S05P02-TheRPAChallenge-VB execution started
+05/01/2024 19:11:53 => [Info] RPADev-S05P02-TheRPAChallenge-VB.Main.Begin;
+05/01/2024 19:11:53 => [Debug] Audit: Using Web App. Browser: Chrome URL: http://www.rpachallenge.com/
+05/01/2024 19:12:42 => [Info] RPADev-S05P02-TheRPAChallenge-VB.Main.Result;
+Your success rate is 100% ( 70 out of 70 fields) in 46826 milliseconds
+05/01/2024 19:12:42 => [Info] RPADev-S05P02-TheRPAChallenge-VB.Main.End;
+05/01/2024 19:12:42 => [Info] RPADev-S05P02-TheRPAChallenge-VB execution ended in: 00:00:48

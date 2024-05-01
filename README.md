@@ -1,5 +1,5 @@
 ![](https://shonharsh.github.io/curriculum-vitae/images/banner-uipath.png)
-# //Project Pending - I am still updating all of the projects for the RPA Developer Foundation.  In doing so I am updating the existing C# Windows Legacy project while also rewriting them in both C# Windows and VB Windows.  I complete at least one project a day.
+
 # S05P02 The RPA Challenge
 
 This project is my solution in **VB** to the **The RPA Challenge** practice found in section 05 practice 02 of the UiPath - RPA Developer Foundation course.
@@ -35,7 +35,14 @@ You will find all the information and working materials needed on [RPA Challenge
 ### Sample Output
 
 ```
-
+05/01/2024 19:11:53 => [Debug] Debug started for file: Main
+05/01/2024 19:11:53 => [Info] RPADev-S05P02-TheRPAChallenge-VB execution started
+05/01/2024 19:11:53 => [Info] RPADev-S05P02-TheRPAChallenge-VB.Main.Begin;
+05/01/2024 19:11:53 => [Debug] Audit: Using Web App. Browser: Chrome URL: http://www.rpachallenge.com/
+05/01/2024 19:12:42 => [Info] RPADev-S05P02-TheRPAChallenge-VB.Main.Result;
+Your success rate is 100% ( 70 out of 70 fields) in 46826 milliseconds
+05/01/2024 19:12:42 => [Info] RPADev-S05P02-TheRPAChallenge-VB.Main.End;
+05/01/2024 19:12:42 => [Info] RPADev-S05P02-TheRPAChallenge-VB execution ended in: 00:00:48
 ```
 
 ### Architecture Requirements

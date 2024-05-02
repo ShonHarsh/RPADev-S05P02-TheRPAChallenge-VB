@@ -34,6 +34,8 @@ You will find all the information and working materials needed on [RPA Challenge
 
 ### Sample Output
 
+![Congratulations](https://shonharsh.github.io/curriculum-vitae/images/RPADev-S05P02-TheRPAChallenge-Congratulations.jpg)
+
 ```
 05/01/2024 19:11:53 => [Debug] Debug started for file: Main
 05/01/2024 19:11:53 => [Info] RPADev-S05P02-TheRPAChallenge-VB execution started
